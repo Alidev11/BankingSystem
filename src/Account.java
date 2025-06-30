@@ -33,7 +33,7 @@ public class Account implements AccountService {
 
     @Override
     public void printStatement() {
-        System.out.println("Date                 ||        Amount       ||         Balance");
+        System.out.println("Date  ||  Amount || Balance");
 
         // Print transactions in reverse chronological order (most recent first)
         List<Transaction> reversedTransactions = new ArrayList<>(transactions);
