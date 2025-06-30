@@ -4,6 +4,9 @@
 <p id="description">This is a basic Application that manages transactions for an account.</p>
 
 
+<h2>Project run</h2>
+* To run the project simply clone this repo and run the BankingSystemDemo class
+
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
